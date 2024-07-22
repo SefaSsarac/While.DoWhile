@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\bin\Debug\net8.0\While-DoWhile.exe
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\bin\Debug\net8.0\While-DoWhile.deps.json
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\bin\Debug\net8.0\While-DoWhile.runtimeconfig.json
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\bin\Debug\net8.0\While-DoWhile.dll
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\bin\Debug\net8.0\While-DoWhile.pdb
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\obj\Debug\net8.0\While-DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\obj\Debug\net8.0\While-DoWhile.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\obj\Debug\net8.0\While-DoWhile.AssemblyInfo.cs
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\obj\Debug\net8.0\While-DoWhile.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\obj\Debug\net8.0\While-DoWhile.dll
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\obj\Debug\net8.0\refint\While-DoWhile.dll
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\obj\Debug\net8.0\While-DoWhile.pdb
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\obj\Debug\net8.0\While-DoWhile.genruntimeconfig.cache
+D:\Yazılım\Repository\While-DoWhile\While-DoWhile\obj\Debug\net8.0\ref\While-DoWhile.dll
